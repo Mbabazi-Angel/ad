@@ -1,0 +1,19 @@
+.about{
+    background-color: aquamarine;
+}
+.mygallery{
+    background-color: green;
+}
+.tables {
+    background-color: rebeccapurple;
+}
+h1{
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 50px;
+}
+body {
+    text-align: center;
+    margin-top: 15%;
+}

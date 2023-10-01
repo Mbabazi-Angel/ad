@@ -1,0 +1,26 @@
+.paragraph-1 { 
+    color: crimson;
+}
+.paragrah-2 {
+    color:blueviolet;
+}
+.paragraph-3 {
+    color:greenyellow;
+}
+.class {
+    color:orangered;
+}
+.mycountry {
+    font-weight: bold;
+}
+.mycity{
+    color: palevioletred;
+}
+#Kasubi {
+    background-color: blue;
+}
+#Kasubi {
+    background-color: brown;
+    color: yellowgreen;
+    border:40px; text-align: center;
+}
